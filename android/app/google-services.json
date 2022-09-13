@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283059326524",
+    "project_id": "gr4-connected-shirt",
+    "storage_bucket": "gr4-connected-shirt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283059326524:android:616c02670a99e7b60d7d39",
+        "android_client_info": {
+          "package_name": "ch.hevs.grp4.connected_shirt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283059326524-dfcakgtiojuobv01amiociv6pqvhijg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCOBvOebsBAz9S38YO4iMi095GTBoKuaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283059326524-dfcakgtiojuobv01amiociv6pqvhijg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

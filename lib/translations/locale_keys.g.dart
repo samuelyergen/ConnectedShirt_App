@@ -1,0 +1,64 @@
+// DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+
+abstract class  LocaleKeys {
+  static const settings = 'settings';
+  static const startConnection = 'startConnection';
+  static const stopConnection = 'stopConnection';
+  static const connectShirt = 'connectShirt';
+  static const disconnectShirt = 'disconnectShirt';
+  static const refreshRate = 'refreshRate';
+  static const language = 'language';
+  static const temperature = 'temperature';
+  static const humidity = 'humidity';
+  static const time = 'time';
+  static const aboutText = 'aboutText';
+  static const signInWithExistingAccount = 'signInWithExistingAccount';
+  static const historicalData = 'historicalData';
+  static const contactReport = 'contactReport';
+  static const darkMode = 'darkMode';
+  static const heartBeat = 'heartBeat';
+  static const lightMode = 'lightMode';
+  static const liveData = 'liveData';
+  static const signOut = 'signOut';
+  static const switchTo = 'switchTo';
+  static const aboutUs = 'aboutUs';
+  static const emailAddress = 'emailAddress';
+  static const password = 'password';
+  static const showPassword = 'showPassword';
+  static const hidePassword = 'hidePassword';
+  static const login = 'login';
+  static const createAccount = 'createAccount';
+  static const group = 'group';
+  static const somethingWentWrong = 'somethingWentWrong';
+  static const checkYourEntries = 'checkYourEntries';
+  static const invalidEmail = 'invalidEmail';
+  static const userNotFound = 'userNotFound';
+  static const userDisabled = 'userDisabled';
+  static const wrongPassword = 'wrongPassword';
+  static const operationNotAllowed = 'operationNotAllowed';
+  static const emailAlreadyInUse = 'emailAlreadyInUse';
+  static const weakPassword = 'weakPassword';
+  static const hello = 'hello';
+  static const graph = 'graph';
+  static const startFetchingData = 'startFetchingData';
+  static const stopFetchingData = 'stopFetchingData';
+  static const sendMessage = 'sendMessage';
+  static const messageNotSent = 'messageNotSent';
+  static const messageSent = 'messageSent';
+  static const thankYou = 'thankYou';
+  static const pleaseEnterAMessage = 'pleaseEnterAMessage';
+  static const message = 'message';
+  static const contactText = 'contactText';
+  static const activityOn = 'activityOn';
+  static const skip = 'skip';
+  static const connect = 'connect';
+  static const connectText = 'connectText';
+  static const monitor = 'monitor';
+  static const monitorText = 'monitorText';
+  static const beFree = 'beFree';
+  static const beFreeText = 'beFreeText';
+  static const done = 'done';
+  static const loading = 'loading';
+  static const ok = 'ok';
+
+}
